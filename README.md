@@ -4,7 +4,7 @@
 - 📚 I'm studying Information Systems at UMC (University Mogi das Cruzes)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=leonardoaguirre&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoaguirre&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoaguirre&theme=midnight-purple&layout=compact&langs_count=10)
 
 - 📩 How to reach me;<br>
 
