@@ -1,11 +1,11 @@
 🔵English-US
-- 👋 Hi, I’m @leozerav, 21 years old
+- 👋 Hi, I’m Leonardo, 21 years old
 - 👀 I’m interested in Information Technology and Information Systems
 - 📖 I’m currently learning Analysis and Systems Development
 - 📚 I'm studying Information Systems at UMC (University Mogi das Cruzes)
 
 🟢Português-BR
-- 👋 Olá, sou @leozerav, tenho 21 anos
+- 👋 Olá, sou Leonardo, tenho 21 anos
 - 👀 Sou interessado em Tecnologia da Informação e Sistemas de Informação
 - 📖 Atualmente, estou aprendendo Análise e Desenvolvimento de Sistemas
 - 📚 Estou estudando Sistemas de Informação na UMC (Universidade Mogi das Cruzes)
