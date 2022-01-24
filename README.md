@@ -16,7 +16,7 @@
 - 📩 How to reach me;
 - 📩 Como me achar;<br>
 
-<img src="https://img.shields.io/badge/leonardo.aguirre.dev@gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white" />.
+<a href = "mailto: abc@example.com"><img src="https://img.shields.io/badge/leonardo.aguirre.dev@gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-vinicius-aguirre/) 
 [<img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leozerav/) 
 [<img src = "https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/leozeravini)
