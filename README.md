@@ -2,13 +2,13 @@
 - 👋 Hi, I’m Leonardo, 21 years old
 - 👀 I’m interested in Information Technology and Information Systems
 - 📖 I’m currently learning Analysis and Systems Development
-- 📚 I'm studying Information Systems at UMC (University Mogi das Cruzes)
+- 📚 Graduate in Information Systems at UMC (University Mogi das Cruzes)
 
 🟢Português-BR
 - 👋 Olá, sou Leonardo, tenho 21 anos
 - 👀 Sou interessado em Tecnologia da Informação e Sistemas de Informação
 - 📖 Atualmente, estou aprendendo Análise e Desenvolvimento de Sistemas
-- 📚 Estou estudando Sistemas de Informação na UMC (Universidade Mogi das Cruzes)
+- 📚 Graduado em Sistemas de Informação na UMC (Universidade Mogi das Cruzes)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=leonardoaguirre&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoaguirre&theme=midnight-purple&layout=compact&langs_count=10)
